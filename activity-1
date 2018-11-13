@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <title>Vinoth Panneer Selvam</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-1/p240x240/26168060_1700017223353152_7812959860561477188_n.jpg?_nc_cat=108&_nc_ht=scontent-syd2-1.xx&oh=91e26f7467b39e81a3dfdf1f61be2c4c&oe=5C85E743">
+  <p>Hi! I'm Vinoth Cannberra based developer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
